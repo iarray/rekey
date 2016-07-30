@@ -1,4 +1,4 @@
-#rekey 按键映射 [![程序下载地址](http://files.cnblogs.com/files/fornet/rekey.zip)]
+#rekey 按键映射 [程序下载地址](http://files.cnblogs.com/files/fornet/rekey.zip)
 
 支持自定义改键规则
 
