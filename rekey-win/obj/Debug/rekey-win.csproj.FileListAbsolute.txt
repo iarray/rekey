@@ -1,0 +1,9 @@
+E:\rekey-win\rekey-win\bin\Debug\rekey-win.exe
+E:\rekey-win\rekey-win\bin\Debug\rekey-win.pdb
+E:\rekey-win\rekey-win\obj\Debug\rekey-win.csprojResolveAssemblyReference.cache
+E:\rekey-win\rekey-win\obj\Debug\rekey_win.Properties.Resources.resources
+E:\rekey-win\rekey-win\obj\Debug\rekey-win.csproj.GenerateResource.Cache
+E:\rekey-win\rekey-win\obj\Debug\rekey-win.exe
+E:\rekey-win\rekey-win\obj\Debug\rekey-win.pdb
+E:\rekey-win\rekey-win\bin\Debug\Hook.dll
+E:\rekey-win\rekey-win\bin\Debug\Hook.pdb
