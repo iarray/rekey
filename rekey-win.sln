@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rekey-win", "rekey-win\reke
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hook", "Hook\Hook.csproj", "{9034B798-CCE1-497B-8770-0A11971D9B0F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "getKeyName", "getKeyName\getKeyName.csproj", "{4448DB84-281E-4F45-B7B1-4895CF2AE310}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{9034B798-CCE1-497B-8770-0A11971D9B0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9034B798-CCE1-497B-8770-0A11971D9B0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9034B798-CCE1-497B-8770-0A11971D9B0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4448DB84-281E-4F45-B7B1-4895CF2AE310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4448DB84-281E-4F45-B7B1-4895CF2AE310}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4448DB84-281E-4F45-B7B1-4895CF2AE310}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4448DB84-281E-4F45-B7B1-4895CF2AE310}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,10 @@
+E:\rekey-win\getKeyName\obj\Debug\getKeyName.csprojResolveAssemblyReference.cache
+E:\rekey-win\getKeyName\obj\Debug\getKeyName.Form1.resources
+E:\rekey-win\getKeyName\obj\Debug\getKeyName.Properties.Resources.resources
+E:\rekey-win\getKeyName\obj\Debug\getKeyName.csproj.GenerateResource.Cache
+E:\rekey-win\getKeyName\bin\Debug\getKeyName.exe
+E:\rekey-win\getKeyName\bin\Debug\getKeyName.pdb
+E:\rekey-win\getKeyName\bin\Debug\Hook.dll
+E:\rekey-win\getKeyName\bin\Debug\Hook.pdb
+E:\rekey-win\getKeyName\obj\Debug\getKeyName.exe
+E:\rekey-win\getKeyName\obj\Debug\getKeyName.pdb
