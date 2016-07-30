@@ -18,6 +18,7 @@
 下面的设置暂不支持
 [CTRL] + [F1]=[CTRL,0]+[C,0]+[CTRL,2]+[C,2]
 
+[![程序下载地址](http://files.cnblogs.com/files/fornet/rekey.zip)]
 #Developed By
 
 * IARRAY
